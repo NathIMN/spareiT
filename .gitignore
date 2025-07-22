@@ -1,0 +1,19 @@
+# Java build files
+*.class
+
+# Eclipse specific
+.settings/
+.project
+.classpath
+
+# Build directories
+build/
+target/
+
+# Random
+application.properties
+xrc/
+
+# OS-specific
+.DS_Store
+Thumbs.db
