@@ -13,6 +13,7 @@ target/
 # Random
 application.properties
 xrc/
+src_old/
 
 # OS-specific
 .DS_Store
