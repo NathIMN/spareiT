@@ -122,37 +122,37 @@ src/main/
 ## Screenshots
 
 ### Home Page
-![Home Page](screenshots/Screenshot%202025-11-30%20at%2017-04-19%20spareiT%20Home.png)
+![Home Page](screenshots/Screenshot%202025-11-30%20at%2017-04-19%20spareiT%20Home.jpeg)
 
 <table>
   <tr>
     <td width="50%">
       <h3>Search Results</h3>
-      <img src="screenshots/FireShot%20Capture%20013%20-%20spareiT%20-%20Search%20Results%20-%20localhost.png" alt="Search Results" width="100%">
+      <img src="screenshots/FireShot%20Capture%20013%20-%20spareiT%20-%20Search%20Results%20-%20localhost.jpeg" alt="Search Results" width="100%">
     </td>
     <td width="50%">
       <h3>Shopping Cart</h3>
-      <img src="screenshots/FireShot%20Capture%20015%20-%20spareiT%20-%20Shopping%20Cart%20-%20localhost.png" alt="Shopping Cart" width="100%">
+      <img src="screenshots/FireShot%20Capture%20015%20-%20spareiT%20-%20Shopping%20Cart%20-%20localhost.jpeg" alt="Shopping Cart" width="100%">
     </td>
   </tr>
   <tr>
     <td width="50%">
       <h3>Admin Parts Catalog</h3>
-      <img src="screenshots/FireShot Capture 020 - Auto Parts Catalog - localhost.png" alt="Admin Parts Catalog" width="100%">
+      <img src="screenshots/FireShot Capture 020 - Auto Parts Catalog - localhost.jpeg" alt="Admin Parts Catalog" width="100%">
     </td>
     <td width="50%">
       <h3>Item Details Management</h3>
-      <img src="screenshots/Screenshot%202025-11-30%20at%2017-04-03%20Item%20Details%20-%20Auto%20Parts.png" alt="Item Details" width="100%">
+      <img src="screenshots/Screenshot%202025-11-30%20at%2017-04-03%20Item%20Details%20-%20Auto%20Parts.jpeg" alt="Item Details" width="100%">
     </td>
   </tr>
   <tr>
     <td width="50%">
       <h3>Inquiry Management</h3>
-      <img src="screenshots/FireShot%20Capture%20017%20-%20View%20_%20Update%20Inquiry%20-%20localhost.png" alt="Inquiry Management" width="100%">
+      <img src="screenshots/FireShot%20Capture%20017%20-%20View%20_%20Update%20Inquiry%20-%20localhost.jpeg" alt="Inquiry Management" width="100%">
     </td>
     <td width="50%">
       <h3>Restock Requests</h3>
-      <img src="screenshots/FireShot%20Capture%20016%20-%20View%20Restock%20Requests%20-%20localhost.png" alt="Restock Requests" width="100%">
+      <img src="screenshots/FireShot%20Capture%20016%20-%20View%20Restock%20Requests%20-%20localhost.jpeg" alt="Restock Requests" width="100%">
     </td>
   </tr>
 </table>
